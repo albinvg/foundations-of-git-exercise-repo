@@ -1,5 +1,5 @@
 ---
-
+EDITING HERE
 title: Editing
 description: Learn how to edit files in GitKraken Client.
 
